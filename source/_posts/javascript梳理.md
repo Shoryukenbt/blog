@@ -1,7 +1,9 @@
 ---
 title: javascript梳理.md
-date: 2019-05-07 11:37:28
-tags: js
+date: 2019-03-08 11:37:28
+categorys: 
+  - 前端基础
+tags: javaScript
 ---
 
 ## javascript要点梳理

@@ -2,8 +2,8 @@
 title: 使用openlayers
 date: 2019-04-30 15:15:07
 categories:
-  - openlayers
-tags:
+  - 第三方类库
+tags: openlayers
 ---
 
 ## 使用openlayers在网页中展示地理信息
